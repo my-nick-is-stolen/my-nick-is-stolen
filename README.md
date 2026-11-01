@@ -3,7 +3,25 @@ Python programmer that loves CLI
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
+### 🎨 Frontend
+<p align="left">
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=HTML5&color=E34F26&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=CSS3&color=1572B6&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+</p>
+
+### 🌐 Languages
+<p align="left">
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=JavaScript&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=C%2B%2B&color=00599C&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
+</p>
+
+### 🚀 CI/CD & DevOps
+<p align="left">
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Git&color=F05032&style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /></a>
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=14malinka14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=14malinka14&theme=dark&hide_border=false)<br/>
